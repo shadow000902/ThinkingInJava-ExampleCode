@@ -1,2 +1,1 @@
-《Java编程思想》第四版书中程序示例    
-注：仅为代码管理方便，非开源项目。
+ThinkingInJava-ExampleCode
